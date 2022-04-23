@@ -61,7 +61,7 @@ I am not familiar with javascript so I had to search up how to do certain things
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://youtu.be/9TDjdPcGmqI
 
 
 ## License
