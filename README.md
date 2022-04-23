@@ -49,13 +49,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 I am not familiar with javascript so I had to search up how to do certain things like how to create arrays and how to get array length. I visited w3 schools a lot and used it as a reference.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+I faced a few challenges during the time I spent on the pre-work. One challenge I faced was that I didn't have a lot of experience working with web programming, especially javascript. Javascript is different from what I am used to in Java and some of the syntaxes are a bit weird. This meant that I needed to translate my thinking from Java into Javascript and this included a lot of research on how things work in Javascript vs Java. Another thing that I faced was that I was stuck on the audio part for a while. I was confused about what the three functions playTone, starTone, and stopTone were doing on the inside of the function. I understood the purpose of each function but I wasn’t sure how each of them worked on the inside. I know that usually, programmers are to use the black box analogy where you just have to understand what a function takes and returns and don’t need to know how it is implemented. However, I wanted to have a deeper understanding of the three functions so after reading through the description on the prework page and carefully reading the creating sounds with audiocontext page I can somewhat understand what’s going on in those functions now. Another challenge I faced was trying to translate the flowchart into code. I wasn’t able to figure out how I could check for conditions like is this the last turn or not. I was able to overcome this by doing a manual debugging process. I ran through my code step by step and updated a spreadsheet of relevant variables to try to logic my way through creating the conditional statements to replicate the flow chart. 
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I had a few ideas for things that I can add to this project. One thing that I think would be great to add is to make the number of rounds much higher and then add a scoreboard. This way it seems more like a game you can play again and again plus you can compete with friends to see who can get the highest score. Another thing that I would want to add is having it play a song. So instead of random frequencies for each button, each one can be a note and then having the sequence of be the notes to a song. I start this by having my default sequence play happy birthday but I think I could have expanded on this and have multiple songs available. 
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I had a few ideas for things that I can add to this project. One thing that I think would be great to add is to make the number of rounds much higher and then add a scoreboard. This way it seems more like a game you can play again and again plus you can compete with friends to see who can get the highest score. Another thing that I would want to add is having it play a song. So instead of random frequencies for each button, each one can be a note and then having the sequence of be the notes to a song. I start this by having my default sequence play happy birthday but I think I could have expanded on this and have multiple songs available. 
 
 
 
